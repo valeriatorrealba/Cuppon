@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.img-nav{
+    width: 10%;
+}
+.color-texto{
+    color:#707070;
+}
+.color-btn{
+    background-color: #DDDDDD;
+}
+.img-footer{
+    width: 10%;
+}
+@media screen and (max-width: 576px) {
+    .img-footer{
+        width: 20%;
+    }
+    .img-nav{
+    width: 25%;
+}
+}
+.navbar-display{
+    display: contents;
+}
+
