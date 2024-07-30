@@ -10,11 +10,7 @@ Cuppon es un sitio web que ofrece una variedad de cupones y descuentos para prod
 
 A continuación, se muestra la imagen del resultado codificado:
 
-![cuppon](screenshot/cuppon.png)
-
-Diseño Responsivo
-
-![cupponResponsive](screenshot/cupponRp.png)
+![cuppon](assets/screenshot/cuppon.png)
 
 ## Estructura del Proyecto
 
